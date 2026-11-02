@@ -1,0 +1,3 @@
+cuando en el operador se hace una asignacion hay que comprobar que las direcciones sean diferentes, no el contenido en si, para comprobar que no se asigna el msimo objeto
+en el cpp los : "clase", lista de inicializacion solo va en los constructores
+un objeto creado entre llave se destrulle al cerrarla menos si es creado con new
